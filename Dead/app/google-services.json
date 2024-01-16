@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "152284216487",
+    "firebase_url": "https://dead-94577-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dead-94577",
+    "storage_bucket": "dead-94577.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152284216487:android:9c2fd5918271f09d142f82",
+        "android_client_info": {
+          "package_name": "com.example.dead"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152284216487-g6o8pf1c4pm7jg2cgqte44ud638i35en.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dead",
+            "certificate_hash": "9a3f5caf00634babf8cd9e7cb9305f225ceb8c68"
+          }
+        },
+        {
+          "client_id": "152284216487-ghdnikc2vuhdfd8h4orv29gk22pn2okr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAa2si9-bYxqt3JNurNl6rD_2J3VgGneA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152284216487-ghdnikc2vuhdfd8h4orv29gk22pn2okr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

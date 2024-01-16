@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dead</string>
+    <string name="default_web_client_id">AIzaSyAu7hlmmjimBaI951E4VjojT5BOj0GxhhU</string>
+    <string name="firebase_auth_domain">https://dead-94577-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="default_notification_channel_id">channel_id</string>
+</resources>
